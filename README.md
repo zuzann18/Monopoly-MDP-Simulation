@@ -9,7 +9,8 @@ This Jupyter Notebook provides a detailed simulation and analysis of the Monopol
 Establishes the basic probabilistic transitions between Monopoly spaces, allowing for an analysis of game dynamics under simplified conditions.
 ### ROI-Based Strategy Simulation: 
 Implements strategies where players decide to buy properties based on expected returns, simulating different approaches to property acquisition.
-### Optimization of Strategies: Uses the Optim package to find the optimal ROI threshold that maximizes a player's chances of winning or maximizing end-game profit.
+### Optimization of Strategies: 
+Uses the Optim package to find the optimal ROI threshold that maximizes a player's chances of winning or maximizing end-game profit.
 ### Results Analysis: 
 Compares win rates and average profits across different strategies, providing insights into effective Monopoly gameplay.
 Usage
